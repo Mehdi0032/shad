@@ -10,8 +10,8 @@ setup(
   long_description_content_type='text/html',
   author = 'Mehdi0032',
   author_email = 'nehdi.hamid0012@gmail.com',
-  url = 'https://github.com/shad',
-  download_url = 'https://github.com/shad/archive/refs/tags/v_546.tar.gz',
+  url = 'https://github.com/Mehdi0032',
+  download_url = 'https://github.com/archive/refs/tags/v_546.tar.gz',
   keywords = ["shad","bot","robot","library","shadlib","shadlib.ml","shadlib.ir","shad.ir"],
   install_requires=[
           'requests',
